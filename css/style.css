@@ -18,6 +18,7 @@ video{
     color: #fff;
     font-family: 'Gloria Hallelujah', cursive;
     font-size: 20px;
+    padding: 0;
 }
 @media(max-width: 780px){
 	.wrapper{
