@@ -20,8 +20,18 @@ video{
     font-size: 20px;
     padding: 0;
 }
+.insta{
+    text-align: center;
+    font-size: 7em;
+    width: 50%;
+    margin: 15px auto 0;
+    border-top: 1px solid #dedede;
+}
 @media(max-width: 780px){
 	.wrapper{
 		width: 100%;
+	}
+	.insta{
+	    font-size: 3em;
 	}
 }
