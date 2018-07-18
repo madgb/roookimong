@@ -37,3 +37,9 @@ video{
 	    font-size: 3em;
 	}
 }
+
+@media (max-width: 375px) {
+	.main{
+		font-size: 14px;
+	}
+}
